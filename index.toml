@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "7aacef6d35d6ffad705eba03f97f30fb99b63bd072f1922fb1501eaca22f256d"
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
 metafile = true
